@@ -1,0 +1,11 @@
+img{
+    height: 300px;
+    width: 300px;
+}
+
+.images{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
